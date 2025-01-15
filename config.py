@@ -1,3 +1,3 @@
 BOT_TOKEN = "7948197573:AAHZXZJCzHCnDTUjqy52JiVHMBGJQrLbVuc"
-admin = 5502720862
-kanal_id = -1002491734364
+admin = "admin id beriladi"
+kanal_id = "kanal id qo'ying"
